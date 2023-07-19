@@ -1,0 +1,132 @@
+nav{
+    background-color: gold;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    
+}
+nav ul{
+    display: flex;
+}
+nav ul li{
+    display: flex;
+}
+nav ul li a{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    margin: 20px;
+}
+#home{
+   background-color: rgb(98, 82, 82);
+    height: 100px;
+    width:100% ;
+    padding: 150px;
+    
+}
+.main{
+    background-color: aliceblue;
+    height: 300px;
+    width:1070px; 
+    display: flex;
+}
+img{
+  height:290px ; 
+  width:300px;
+
+}
+.pic{
+  width: 250px;
+  height: 200px; 
+/* padding-left: 10px;
+padding-top:10px ; */
+padding: 5px;
+/* display: flex; */
+}
+.evan{
+  font-size: 45px;
+  padding-left: 400px;
+  padding-top:50px ;
+}
+.snap{
+  font-size: large;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+padding-left:460px ;
+padding-bottom: 200px;
+}
+#aa{
+ font-family:sans-serif;
+ padding: 60px;
+ padding-bottom: 8px;
+ 
+}
+.bb{
+ font-size: 25px;
+margin: 40px;
+text-align: justify;
+align-items: center; 
+ border: 1px ridge rgb(88, 80, 80);
+ padding-bottom: 50px;
+ padding-top: 50px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.ach{
+/* align-items: center; */
+  text-align: justify;
+  font-size: 20px;
+  background-color: grey;
+  height: 500px;
+  width: 900px;
+  padding: 40px;
+  padding-right: 400px;
+  margin: 40px;
+  background-image: url(https://img.freepik.com/premium-photo/business-achievement-goal-objective-target-concept-initiation-planning-reach-target-darts-target-aim-icon-wooden-cubes-with-grey-background-copy-space_256259-2386.jpg?w=2000);
+  background-size: cover;
+}
+#row{
+  background-color: grey;
+}
+#project{
+  display: flex;
+  height: 500px;
+  width: 100%;
+  background-color:grey;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.procol{
+  width: 300px;
+  height: 450px;
+  background-color: rgb(227, 226, 227);
+  padding-bottom: 30px;
+  padding: 20px;
+  
+  
+}
+.gg{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.trans:hover{
+   box-shadow: 4px 4px 4px 4px;
+   transform: scale(0.8);
+}
+form{
+  width: 400px; 
+  margin-left:500px ;
+  margin-right:100px 
+}
+input{
+  width:100% ;
+  align-items: center;
+  flex-direction: row;
+ margin: 15px 0;
+}
+#contact{
+  background-color: grey;
+}
+.light{
+  text-shadow: 2px 2px grey;
+}
+
